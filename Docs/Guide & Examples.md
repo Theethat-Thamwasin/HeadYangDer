@@ -14,7 +14,13 @@ This guide will help you install and use the **HeadYangDer** extension in Burp S
 5. The **HeadYangDer** tab will appear in Burp.  
 
 ![4](./4.png)
+
 ![5](./5.png)
+
+![6](./6.png)
+
+![7](./7.png)
+
 ---
 
 ## ⚡ Usage
