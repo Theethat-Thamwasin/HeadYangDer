@@ -1,3 +1,10 @@
+# --------- HeadYangDer          ---------
+# --------- Burp Suite Extension ---------
+# --------- XD                   ---------
+# --------- GL                   ---------
+# --------- TQ                   ---------
+# --------- Born at 22/8/2025    ---------
+
 # -*- coding: utf-8 -*-
 from burp import IBurpExtender, ITab, IContextMenuFactory
 from javax.swing import JPanel, JTable, JScrollPane, JMenuItem, JButton, JCheckBox, BoxLayout, Box, JSlider, JLabel, BorderFactory, JFileChooser
@@ -379,6 +386,7 @@ class BurpExtender(IBurpExtender, ITab, IContextMenuFactory):
             if not str(file).lower().endswith(".png"):
                 file = File(str(file) + ".png")
             ImageIO.write(img, "png", file)
+
 
 
 
