@@ -15,11 +15,11 @@ This guide will help you install and use the **HeadYangDer** extension in Burp S
 
 ![4](./Docs/4.png)
 
-![5](./5.png)
+![5](./Docs/5.png)
 
-![6](./6.png)
+![6](./Docs/6.png)
 
-![7](./7.png)
+![7](./Docs/7.png)
 
 ---
 
@@ -29,7 +29,7 @@ This guide will help you install and use the **HeadYangDer** extension in Burp S
 From the **Proxy tab** or the **Request/Response view**, right-click and choose:  
 `Extensions → HeadYangDer → Send to Header Checker`  
 
-![8](./8.png)  
+![8](./Docs/8.png)  
 
 ---
 
@@ -37,35 +37,35 @@ From the **Proxy tab** or the **Request/Response view**, right-click and choose:
 Inside the **HeadYangDer** tab you will see the header analysis table.  
 By default, all **6 security headers** are selected.  
 
-![9](./9.png)  
+![9](./Docs/9.png)  
 
 You can also choose only some headers (e.g., 3 out of 6):  
 
-![10](./10.png)  
+![10](./Docs/10.png)  
 
 ---
 
 ### Step 3: Edit and Interact with Results
 - **Edit a cell**: Double-click to modify the value.  
-  ![11](./11.png)  
+  ![11](./Docs/11.png)  
 
 - **Highlight a row**: Click once to highlight a request.  
-  ![12](./12.png)  
+  ![12](./Docs/12.png)  
 
 - **Clear Selection**: Use the **Clear Selection** button to remove highlighting.  
-  ![13](./13.png)  
+  ![13](./Docs/13.png)  
 
 ---
 
 ### Step 4: Adjust the View
 - **Zoom In**  
-  ![14](./14.png)  
+  ![14](./Docs/14.png)  
 
 - **Zoom Out**  
-  ![15](./15.png)  
+  ![15](./Docs/15.png)  
 
 - **Reset Layout**: Use the **Set Default View** button.  
-  ![16](./16.png)  
+  ![16](./Docs/16.png)  
 
 ---
 
@@ -73,16 +73,16 @@ You can also choose only some headers (e.g., 3 out of 6):
 You can export the table to **PNG** for reporting.  
 
 - Export with **all 6 headers selected**:  
-  ![17](./17.png)  
-  ![18](./18.png)  
+  ![17](./Docs/17.png)  
+  ![18](./Docs/18.png)  
 
 - Export with **only 4 headers selected**:  
-  ![19](./19.png)  
-  ![20](./20.png)  
+  ![19](./Docs/19.png)  
+  ![20](./Docs/20.png)  
 
 ---
 
-## ✅ That's it Simple and Look Clean (maybe TT)
+## ✅ That's it, Simple and Looks Clean (maybe TT)
 
 HeadYangDer steps up and makes it simple to check missing or weak HTTP security headers during penetration testing.
 - Export results for reporting  
