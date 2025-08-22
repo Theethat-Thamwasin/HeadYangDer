@@ -82,15 +82,8 @@ You can export the table to **PNG** for reporting.
 
 ---
 
-## ✅ Summary
-- Install via Burp’s Extender menu  
-- Send requests from Proxy/Request tab to HeadYangDer  
-- Analyze, edit, and highlight header findings  
-- Adjust view with zoom and reset  
-- Export results for reporting  
+## ✅ That's it Simple and Look Clean (maybe TT)
 
-HeadYangDer makes it simple to check missing or weak HTTP security headers during penetration testing.
+HeadYangDer steps up and makes it simple to check missing or weak HTTP security headers during penetration testing.
 - Export results for reporting  
-
-HeadYangDer makes it simple to check missing or weak HTTP security headers during penetration testing.
 
