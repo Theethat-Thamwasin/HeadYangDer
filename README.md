@@ -5,6 +5,9 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
 
 ![9](./Docs/9.png)  
 
+---
+### Author: Theethat Thamwasin
+---
 ## ✨ Features
 - Detects missing and misconfigured security headers:
   - X-Frame-Options
