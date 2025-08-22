@@ -3,6 +3,7 @@
 # --------- XD                   ---------
 # --------- GL                   ---------
 # --------- TQ                   ---------
+# --------- version = "2.0"      ---------
 # --------- Born at 22/8/2025    ---------
 
 # -*- coding: utf-8 -*-
@@ -386,6 +387,7 @@ class BurpExtender(IBurpExtender, ITab, IContextMenuFactory):
             if not str(file).lower().endswith(".png"):
                 file = File(str(file) + ".png")
             ImageIO.write(img, "png", file)
+
 
 
 
