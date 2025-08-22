@@ -13,7 +13,7 @@ This guide will help you install and use the **HeadYangDer** extension in Burp S
 4. Load `HeadYangDer.py`  
 5. The **HeadYangDer** tab will appear in Burp.  
 
-![4](./4.png)
+![4](./Docs/4.png)
 
 ![5](./5.png)
 
