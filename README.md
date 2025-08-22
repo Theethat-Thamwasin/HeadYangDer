@@ -33,4 +33,4 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
 
 5. The extension tab "HeadYangDer" should now appear.
 
-## For Guide and Usage Examples, please visit [User Guide & Examples](./Docs/Guide & Examples.md) Page
+For Guide and Usage Examples, please visit [User Guide & Examples](./Docs/Guide & Examples.md) Page
