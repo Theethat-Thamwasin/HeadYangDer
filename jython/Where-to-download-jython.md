@@ -5,5 +5,5 @@
 ---
 ## jython 2.7.4
 
-[![Visit Website](https://img.shields.io/badge/Download-site-blue)](https://central.sonatype.com/artifact/org.python/jython-standalone/2.7.4)
+[![Visit Website](https://img.shields.io/badge/Download-2.7.4-blue)](https://central.sonatype.com/artifact/org.python/jython-standalone/2.7.4)
 
