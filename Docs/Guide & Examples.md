@@ -90,4 +90,7 @@ You can export the table to **PNG** for reporting.
 - Export results for reporting  
 
 HeadYangDer makes it simple to check missing or weak HTTP security headers during penetration testing.
+- Export results for reporting  
+
+HeadYangDer makes it simple to check missing or weak HTTP security headers during penetration testing.
 
