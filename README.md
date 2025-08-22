@@ -29,7 +29,7 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
    
 2. Open Burp Suite and go to Extender → Extensions → Add.
 
-3. Choose the extension type (Python if using Jython).
+3. Choose the extension type (Jython).
 
 4. Select the HeadYangDer.py file.
 
