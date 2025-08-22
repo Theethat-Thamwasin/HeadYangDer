@@ -33,4 +33,8 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
 
 5. The extension tab "HeadYangDer" should now appear.
 
-# [![Read the Guide](https://img.shields.io/badge/User%20Guide-View%20Now-blue)](./Docs/Guide&Examples.md) 
+---
+
+## 📖 Documentation
+See the full [User Guide](./Docs/Guide&Examples.md) with step-by-step instructions and screenshots.
+[![Read the Guide](https://img.shields.io/badge/User%20Guide-View%20Now-blue)](./Docs/Guide&Examples.md) 
