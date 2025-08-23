@@ -82,8 +82,7 @@ You can export the table to **PNG** for reporting.
 
 ---
 
-## ✅ That's it, Simple and Looks Clean (maybe TT)
+## ✅ That's it, Simple and Looks Clean 
 
 HeadYangDer steps up and makes it simple to check missing or weak HTTP security headers during penetration testing.
-- Export results for reporting  
 
