@@ -49,10 +49,10 @@ You can also choose only some headers (e.g., 3 out of 6):
 - **Edit a cell**: Double-click to modify the value.  
   ![11](./Docs/11.png)  
 
-- **Highlight a row**: Click once to highlight a request.  
+- **Highlight a row**: Click once to highlight a request. (for old Version)
   ![12](./Docs/12.png)  
 
-- **Clear Selection**: Use the **Clear Selection** button to remove highlighting.  
+- **Clear Selection**: Use the **Clear Selection** button to remove highlighting. (for old Version)  
   ![13](./Docs/13.png)  
 
 ---
