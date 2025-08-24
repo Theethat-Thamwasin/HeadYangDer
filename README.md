@@ -18,6 +18,7 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
   - Permissions-Policy
 - Simple, modern UI integrated into Burp's "HeadYangDer" tab
 - Export results for documentation or reporting
+- History for scan result for loading back and export
 - Lightweight and easy to use
 
 ## 🚀 📦 Requirements and Installation
