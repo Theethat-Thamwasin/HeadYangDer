@@ -1,4 +1,4 @@
-# HeadYangDer
+# HeadYangDer [HTTP-Header-Checker]
 
 HeadYangDer is a Burp Suite extension designed to make HTTP Headers analysis easier and more efficient during web application penetration testing.  
 It provides a clear UI inside Burp Suite, highlights missing or weak security headers, and allows customs exporting results for reporting.
