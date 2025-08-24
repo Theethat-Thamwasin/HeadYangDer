@@ -27,7 +27,7 @@ It provides a clear UI inside Burp Suite, highlights missing or weak security he
 
 0. Load the jython to Python Environment in Burp's Extension -> Default Setting
 
-1. Clone this repository:
+1. Clone this repository or download main resources:
    ```bash
    git clone https://github.com/Theethat-Thamwasin/HeadYangDer.git
    
