@@ -82,6 +82,18 @@ You can export the table to **PNG** for reporting.
 
 ---
 
+### Step 6: History of Results
+You can views past scan and result that can be load and export later.  
+
+- View and Load Past results:  
+  ![21](./Docs/21.png)  
+  ![22](./Docs/22.png)  
+
+- You can Delete unwanted history result:  
+  ![23](./Docs/23.png)  
+
+---
+
 ## ✅ That's it, Simple and Looks Clean 
 
 HeadYangDer steps up and makes it simple to check missing or weak HTTP security headers during penetration testing.
